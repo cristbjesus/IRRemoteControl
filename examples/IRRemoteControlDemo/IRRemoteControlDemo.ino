@@ -1,5 +1,5 @@
 /*
- * IRsend: IRRemoteControlDemo - demonstrates receiving/sending IR codes.
+ * IRRemoteControle: IRRemoteControlDemo - demonstrates receiving/sending IR codes.
  * Created by Cristiano Borges - STI - Fatesg
  * August, 2017
  */
