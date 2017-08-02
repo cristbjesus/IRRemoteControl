@@ -48,7 +48,7 @@ void loop() {
     
     irSend.sendRaw(irBuffer, currentIrBufferLength, FREQ_KHZ, false);
     
-    Serial.println(F("Código enviado!"));
+    Serial.println(F("Code sent!"));
     Serial.println();
     
     digitalWrite(LED_BUILTIN, LOW);
