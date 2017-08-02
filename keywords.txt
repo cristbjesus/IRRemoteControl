@@ -1,0 +1,18 @@
+#######################################
+# Syntax Coloring Map For IRremote
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+IRRecv	KEYWORD1
+IRSend	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+start	KEYWORD2
+stop	KEYWORD2
+sendRaw	KEYWORD2
