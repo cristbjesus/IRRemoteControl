@@ -1,5 +1,5 @@
 # IRRemoteControl
-Lightweight Arduino Library for send/receive IR signal.
+Lightweight Arduino Library to send/receive IR signal.
 
 ---
 This library can read codes from flash memory if necessary. So when you are creating variables to store the codes to be sent with this library, you can use the [PROGMEM](https://www.arduino.cc/en/Reference/PROGMEM) variable modifier.
